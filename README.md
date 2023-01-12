@@ -9,7 +9,7 @@
 
 **稳定版更新通道：**
 
-> 24.3：`https://raw.githubusercontent.com/Ximuduji/Magisk24.3/372a7ec124d0301b1ec0f72bc0882f0f21f4c443/stable.json`
+> 24.3："https://raw.githubusercontent.com/Ximuduji/Magisk24.3/main/stable.json"
 >
 by.析木
-
+"
