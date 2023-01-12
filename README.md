@@ -1,7 +1,7 @@
 # Magisk24.3
 **Magisk Stable**
 
-> 替换**Magisk.App**的自定义通道.json`
+> 替换**Magisk.App**的自定义通道.json
 >
 > 以此达到**Magisk.App**只检测该版本的目的
 >
