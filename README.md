@@ -1,7 +1,7 @@
 # Magisk24.3
 **Magisk Stable**
 
-> 替换**Magisk.App**的自定义通道 `.json`
+> 替换**Magisk.App**的自定义通道.json`
 >
 > 以此达到**Magisk.App**只检测该版本的目的
 >
@@ -11,4 +11,5 @@
 
 > 24.3：`https://raw.githubusercontent.com/Ximuduji/Magisk24.3/372a7ec124d0301b1ec0f72bc0882f0f21f4c443/stable.json`
 >
+by.析木
 
