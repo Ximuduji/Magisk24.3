@@ -2,12 +2,12 @@
   "magisk": {
     "version": "24.3",
     "versionCode": "24300",
-    "link": "https://raw.githubusercontent.com/Ximuduji/Magisk24.3/8195302d4c492f1facd2713d2a393d32428e06c3/app-release.apk",
-    "note": "https://raw.githubusercontent.com/Ximuduji/Magisk24.3/main/README.md"
+    "link": "https://ghproxy.com/https://raw.githubusercontent.com/Ximuduji/Magisk24.3/8195302d4c492f1facd2713d2a393d32428e06c3/app-release.apk",
+    "note": "https://ghproxy.com/https://raw.githubusercontent.com/Ximuduji/Magisk24.3/main/README.md"
   },
   "stub": {
     "versionCode": "27",
-    "link": "https://raw.githubusercontent.com/Ximuduji/Magisk24.3/main/stub-release.apk"
+    "link": "https://ghproxy.com/https://raw.githubusercontent.com/Ximuduji/Magisk24.3/main/stub-release.apk"
   }
 }
 
